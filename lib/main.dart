@@ -2,7 +2,11 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(
-    MaterialApp( // For iOS -> Cupertino
+    MaterialApp(
+
+      // For iOS -> Cupertino
+      // https://flutter.github.io/samples/#/
+
       home: Scaffold(
 
         backgroundColor: Colors.lightBlueAccent,
